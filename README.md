@@ -2,15 +2,15 @@
 
 - Clone a Repository:
 
-`git clone <repository-url>`
+&nbsp;`git clone <repository-url>`
 
 - Add a Remote to a Repository:
 
-`git remote add origin <new-repo-url>`
+&ensp`git remote add origin <new-repo-url>`
 
-Push Changes to a Remote Repository:
+- Push Changes to a Remote Repository:
 
-`git push -u origin main`
+&emsp;`git push -u origin main`
 
 Rename a Branch:
 
