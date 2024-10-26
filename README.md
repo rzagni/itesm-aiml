@@ -1,4 +1,4 @@
-**Useful GitHub CLI:**
+**Useful GitHub CLI Commands:**
 
 Clone a Repository:
 `git clone <repository-url>`
