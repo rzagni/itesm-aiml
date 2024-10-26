@@ -2,11 +2,11 @@
 
 - Clone a Repository:
 
-&nbsp;`git clone <repository-url>`
+&emsp;`git clone <repository-url>`
 
 - Add a Remote to a Repository:
 
-&ensp`git remote add origin <new-repo-url>`
+&emsp;`git remote add origin <new-repo-url>`
 
 - Push Changes to a Remote Repository:
 
