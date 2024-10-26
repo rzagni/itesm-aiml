@@ -2,7 +2,7 @@
 
 - Clone a Repository:
 
-	'git clone <repository-url>' 
+	`git clone <repository-url>` 
 
 - Add a Remote to a Repository:
 
