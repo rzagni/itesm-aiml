@@ -2,76 +2,77 @@
 
 - Clone a Repository:
 
-&emsp;&emsp;`git clone <repository-url>`
+	git clone <repository-url> 
 
 - Add a Remote to a Repository:
 
-&emsp;&ensp;`git remote add origin <new-repo-url>`
+	git remote add origin <new-repo-url> 
 
 - Push Changes to a Remote Repository:
 
-&emsp;`git push -u origin main`
+	git push -u origin main 
 
-Rename a Branch:
+- Rename a Branch:
 
-`git branch -M main`
+	git branch -M main 
 
-Delete a Local Branch:
+- Delete a Local Branch:
 
 	git branch -d <branch-name>
 
-For Force Deletion:
+- For Force Deletion:
 
-`git branch -D <branch-name>`
+ git branch -D <branch-name> 
 
-Delete a Remote Branch:
+- Delete a Remote Branch:
 
-`git push origin --delete <branch-name>`
+ git push origin --delete <branch-name> 
 
-Merge Branches:
+- Merge Branches:
 
-`git merge <branch-name>`
+ git merge <branch-name> 
 
-Allow Unrelated Histories:
+- Allow Unrelated Histories:
 
-`git merge <branch-name> --allow-unrelated-histories`
+ git merge <branch-name> --allow-unrelated-histories 
 
-Fetch Updates from a Remote Repository:
+- Fetch Updates from a Remote Repository:
 
-`git fetch <remote-name>`
+ git fetch <remote-name> 
 
-Check Current Branch:
+- Check Current Branch:
 
-`git branch`
+ git branch 
 
-Add Files to Staging:
+- Add Files to Staging:
 
-`git add .`
+ git add . 
 
 Commit Changes:
 
-`git commit -m "Commit message"`
+ git commit -m "Commit message" 
 
-Run a Command from Shell History by Number:
+- Run a Command from Shell History by Number:
 
-`!<command-number>`
+ !<command-number> 
 
-Set a New Remote URL:
+- Set a New Remote URL:
 
-`git remote set-url origin <new-repo-url>`
+ git remote set-url origin <new-repo-url> 
 
-Remove a Remote (Detach a local repo from its master:
+- Remove a Remote (Detach a local repo from its master:
 
-`git remote remove origin`
+ git remote remove origin 
 
-Ensure the Remote has been Removed, check the remotes:
+- Ensure the Remote has been Removed, check the remotes:
 
-`git remote -v`
+ git remote -v 
 
-Add the New Repository as a Remote:
+- Add the New Repository as a Remote:
 
-`git remote add origin <new-repo-url>`
+ git remote add origin <new-repo-url> 
 
-Push to the New Remote:
+- Push to the New Remote:
 
-`git push -u origin main`
+ git push -u origin main 
+ 
