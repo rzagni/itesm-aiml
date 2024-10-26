@@ -18,7 +18,7 @@ Rename a Branch:
 
 Delete a Local Branch:
 
-		`git branch -d <branch-name>`
+	git branch -d <branch-name>
 
 For Force Deletion:
 
