@@ -1,10 +1,10 @@
 **Useful GitHub CLI Commands:**
 
-Clone a Repository:
+- Clone a Repository:
 
 `git clone <repository-url>`
 
-Add a Remote to a Repository:
+- Add a Remote to a Repository:
 
 `git remote add origin <new-repo-url>`
 
