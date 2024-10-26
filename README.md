@@ -2,11 +2,11 @@
 
 - Clone a Repository:
 
-	`git clone <repository-url>` 
+		git clone <repository-url> 
 
 - Add a Remote to a Repository:
 
-	git remote add origin <new-repo-url> 
+		git remote add origin <new-repo-url> 
 
 - Push Changes to a Remote Repository:
 
