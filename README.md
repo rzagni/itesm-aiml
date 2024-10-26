@@ -50,7 +50,7 @@
 
 - Commit Changes:
 
-	git commit -m "Commit message" 
+		git commit -m "Commit message" 
 
 - Run a Command from Shell History by Number:
 
