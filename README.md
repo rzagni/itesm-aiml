@@ -76,3 +76,8 @@
 
  		git push -u origin main 
  
+**Useful Google Cloud CLI Commands:**
+
+- Autenticate with username/password on CLI (will open a browser to perform the authentication)
+
+		gcloud auth application-default login
