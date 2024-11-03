@@ -10,7 +10,11 @@
 
 - Push Changes to a Remote Repository:
 
-		git push -u origin main 
+		git push -u origin main
+
+- Authenticate
+
+ 		gh auth login
 
 - Rename a Branch:
 
