@@ -16,6 +16,16 @@
 
  		gh auth login
 
+- Create a New Repository from Existing Local Code
+
+  		cd <REPO_NAME>
+  		git init
+  		git add *
+  		git commit -m "Initial commit"
+		# Create the repository on GitHub manually by going to GitHub and creating a new repository. Note the URL of your new repo.
+  		git remote add origin <REPO_URL>
+  		git push -u origin master
+
 - Rename a Branch:
 
 		git branch -M main 
